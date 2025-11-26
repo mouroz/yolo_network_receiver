@@ -1,0 +1,3 @@
+[submodule "communication_submodule"]
+	path = communication_submodule
+	url = https://github.com/mouroz/py_communication_submodule.git
