@@ -1,0 +1,6 @@
+# YOLO Defect Detection Server Interface
+# Install with: pip install -r requirements.txt
+
+PyQt6>=6.4.0
+pandas>=1.5.0
+
