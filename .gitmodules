@@ -1,3 +1,4 @@
 [submodule "communication_submodule"]
+	branch = interface-master
 	path = communication_submodule
 	url = https://github.com/mouroz/py_communication_submodule.git
